@@ -15,4 +15,10 @@ we recommend the book *The Elements of Statistical Learning* (my next repo) by T
 We will also not describe how to write ML algorithms from scratch, and will instead focus on how to use the large array of models already implemented in *scikit-learn* and other libraries.
 
 ¡YAY! (capicua)
+
+## Online Resources
+While studying this book, definitely refer to the *scikit-learn* [website](http://scikit-learn.org) for more in-depth documentation of the classes and functions, and many examples. 
+There is also a video course created by Andreas Muller, *"Advanced Machine Learning with scikit-learn"*, that suplements this book.
+You can find it at this [link](http://bit.ly/advanced_machine_learning_scikit-learn).
+
 ### now, let's do this
